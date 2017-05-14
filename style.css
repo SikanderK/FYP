@@ -1,0 +1,134 @@
+body{
+    text-align: center;
+}
+
+.banner{
+    background: url(../images/home-banner.png);
+     background-size:cover;
+     
+  
+}
+.content{
+  margin: 0 auto;
+  margin-top:72px;
+
+}
+.logo-text{
+    margin:50px;
+    font-size:36px;
+    color:#fff;
+}
+.slogan{
+    
+    font-size: 30px;
+    color:#fff;
+
+}
+.login-btn {
+    color: #fff;
+    background-color: #00aeef;
+    border-color: #00aeef;
+    padding: 20px;
+    margin-top:50px;
+    margin-bottom:70px;
+}
+.nav{
+    margin: auto;
+    margin-top: 50px;
+}
+.nav>li {
+    display: inline;
+    
+}
+.nav>li>a {
+    display: inline-block;
+    color: #000;
+    font-size:15px;
+}
+.nav>li>a:hover{
+    background: transparent;
+    border-bottom: 1px solid black;
+}
+.nav>li>a.active {
+    border-bottom: 1px solid black;
+}
+.article{
+    margin-top:50px;
+}
+.article>p{
+    margin-top:50px;
+}
+.article>h1.top-ranger{
+    margin-top:70px;
+        border-bottom: 1px solid;
+    padding-bottom: 12px;
+}
+.thumb img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:80%;
+}
+.item{
+    padding:10px;
+}
+span.title{
+    font-size: 18px;
+    padding: 20px;
+    display: block;
+}
+.footer{
+    background: url("../images/footer-banner.png");
+    background-size: cover;
+    height: 300px;
+    margin-top:100px;
+}
+#contact-form{
+    width:40%;
+    margin:auto;
+    margin-top:50px;
+    margin-bottom: 70px;
+}
+#contact-form textarea{
+    width:100%;
+}
+.send{
+    background: #00aeef;
+    width:100%;
+    color:#fff;
+}
+.booking-car{
+    border:1px solid grey;
+    padding:10px;
+    margin:10px;
+}
+.price{
+    margin:10px;
+}
+.booked-meta{
+    margin:10px;
+    
+}
+.red{
+    color:red;
+}
+.main{
+    margin-top:50px;
+    margin-bottom: 50px;
+}
+.car{
+    padding:10px;
+    margin:10px;
+}
+.btn-default{
+
+    width:100%;
+  
+}
+#search-form{
+    padding:30px;
+   
+}
+.car-listing{
+    border-left:1px solid grey;
+}
